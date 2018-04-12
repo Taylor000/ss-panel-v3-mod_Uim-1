@@ -84,6 +84,10 @@ It will not impact the appearance and can give developers a lot of support :)
 													<td>本程序的参与人员列表</td>
 													<td>此列表为参与到 <a href="https://github.com/NimaQu/ss-panel-v3-mod_UIChanges">ss-panel-v3 glzjin mod UIChanges</a> 中的人员，在此表示感谢。</td>
 												</tr>
+					       <tr>
+													<td>本程序的搭建脚本</td>
+													<td>本程序搭建脚本由 <a href="https://blog.67cc.cn/>"十一博客</a> <a href="https://blog.67cc.cn/archives/sspanelv3mod-revise-the-one-key-script-again.html">《ss-panel-v3-mod再次修改版一键脚本》</a> 搭建。</td>
+												</tr>
                                               
 											</tbody>
 										</table>
