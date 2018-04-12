@@ -2,11 +2,14 @@
 
 //  ss-panel-v3-mod_UIChanges配置
 
+//请手动修改里面的内容为自己的 
+//如有不懂可付费教学 联系Q 209224407
+
 
 //基础设置-----------------------------------------------------------------------
-$System_Config['key'] = '114514';			// !!! 瞎jb修改此key为随机字符串确保网站安全 !!!
+$System_Config['key'] = 'blog.67cc.cn';			// !!! 瞎jb修改此key为随机字符串确保网站安全 !!!
 $System_Config['debug'] =  'false';  //  正式环境请确保为false
-$System_Config['appName'] = '';             //站点名称
+$System_Config['appName'] = 'SSpanel再修改版 by 十一';             //站点名称
 $System_Config['baseUrl'] = 'http://url.com';            // 站点地址
 $System_Config['timeZone'] = 'PRC';        // PRC 天朝时间  UTC 格林时间
 $System_Config['pwdMethod'] = 'sha256';       // 密码加密   可选 md5,sha256
@@ -32,10 +35,10 @@ $System_Config['Speedtest_duration']='6';      //测速周期/h
 
 //数据库设置---------------------------------------------------------------------
 $System_Config['db_driver'] = 'mysql';
-$System_Config['db_host'] = 'localhost';
-$System_Config['db_database'] = 'sspanel';
+$System_Config['db_host'] = 'localhost'; //数据库地址
+$System_Config['db_database'] = 'sspanel'; //数据库
 $System_Config['db_username'] = 'root';
-$System_Config['db_password'] = 'root';
+$System_Config['db_password'] = 'root'; //数据库密码
 $System_Config['db_charset'] = 'utf8';
 $System_Config['db_collation'] = 'utf8_general_ci';
 $System_Config['db_prefix'] = '';
