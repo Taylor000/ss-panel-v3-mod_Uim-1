@@ -33,9 +33,9 @@ $System_Config['Speedtest_duration']='6';      //测速周期/h
 //数据库设置---------------------------------------------------------------------
 $System_Config['db_driver'] = 'mysql';
 $System_Config['db_host'] = 'localhost';
-$System_Config['db_database'] = '';
+$System_Config['db_database'] = 'sspanel';
 $System_Config['db_username'] = 'root';
-$System_Config['db_password'] = '';
+$System_Config['db_password'] = 'root';
 $System_Config['db_charset'] = 'utf8';
 $System_Config['db_collation'] = 'utf8_general_ci';
 $System_Config['db_prefix'] = '';
