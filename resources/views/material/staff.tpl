@@ -86,7 +86,7 @@ It will not impact the appearance and can give developers a lot of support :)
 												</tr>
 					       <tr>
 													<td>本程序的搭建脚本</td>
-													<td>本程序搭建脚本由 <a href="https://blog.67cc.cn/>"十一博客</a> <a href="https://blog.67cc.cn/archives/sspanelv3mod-revise-the-one-key-script-again.html">《ss-panel-v3-mod再次修改版一键脚本》</a> 搭建。</td>
+													<td>本程序搭建脚本由 <a href="https://blog.67cc.cn/archives/sspanelv3mod-revise-the-one-key-script-again.html">《ss-panel-v3-mod再次修改版一键脚本》</a> 搭建。</td>
 												</tr>
                                               
 											</tbody>
